@@ -1,5 +1,5 @@
 {
-  "name": "mern-shopping",
+  "name": "redux-store",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -16,7 +16,10 @@
   "devDependencies": {
     "concurrently": "^5.1.0"
   },
-  "engines": {
-    "npm": "7.x"
+
+  
+    "engines": {
+      "npm": "7.x"
+    }
   }
-}
+
