@@ -16,10 +16,7 @@
   "devDependencies": {
     "concurrently": "^5.1.0"
   },
-
-  
-    "engines": {
-      "npm": "7.x"
-    }
+  "engines": {
+    "npm": "7.x"
   }
-
+}
